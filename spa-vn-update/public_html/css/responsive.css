@@ -1,0 +1,191 @@
+@media only screen and (min-width: 1920px) {
+    
+}
+
+@media only screen and (max-width: 1920px) {
+   
+}
+
+@media only screen and (max-width: 1366px) {
+    .navbar-default .navbar-nav > li > a {
+        letter-spacing: 1px;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .navbar-nav > li {
+        margin: 7px 10px;
+    }
+    .slider > div span {
+        padding-top: 17%;
+    }
+}
+
+@media only screen and (max-width: 1023px) {
+
+}
+
+@media only screen and (max-width: 960px) {
+
+}
+
+@media only screen and (max-width: 768px) {
+    .lang-social {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .ed-treat-contact{
+        text-align: center;
+    }
+    .box-pic{
+        margin-bottom: 15px;
+    }
+    .box-2-time-table {
+         margin-top: 0px; 
+    }
+    .box-pic img{
+        width: 100%;
+    }
+    .box-shop-pro{
+        margin-bottom: 30px;
+    }
+    .txt-newsletter {
+        margin: 0px 30px;
+    }
+    .ed-lasted, .ed-txt-ft{
+        margin-bottom: 30px;
+    }
+    .navbar-nav > li {
+        margin: 7px 10px;
+    }
+    .newsletter {
+        background-attachment: fixed;
+    }
+    .text-sale-off h1 {
+        color: #8f8f8f;
+    }
+    .ed-txt-ft p{
+	text-align: justify;
+	}
+    .slider > div span {
+        padding-top: 25%;
+    }
+    .ed-col-right h2, .ed-p-col-right{
+        text-align: center;
+    }
+    .box-infor-staff img{
+        width: 100%;
+    }
+    .box-infor-staff {
+     margin-top: 0px; 
+    }
+    .mg-xuong-bot{
+        margin: 30px 0;
+    }
+    .title-right-dvnb h2 {
+        margin-top: 40px;
+    }
+    div#bs-example-navbar-collapse-1 {
+        background: rgb(235, 185, 189);
+    }
+    .navbar-default .navbar-nav > li > a {
+        color: #000;
+    }
+}
+@media (max-width: 767px){
+
+}
+
+@media only screen and (max-width: 480px) {
+    .navbar-toggle {
+         float: unset; 
+    }
+    .navbar-header{
+        text-align: center;
+    }
+    button.navbar-toggle {
+        margin: 15px 0 0;
+    }
+    .banner-slide {
+        height: 500px;
+    }
+    .slider, .slider > div {
+        height: 500px;
+    }
+    .footer-bottom {
+        text-align: center;
+        margin-top: 20px;
+
+    }
+    .footer-bottom p, .ed-social {
+        width: 100%;
+    }
+    .txt-news {
+        padding: 25px;
+    }
+    .text-sale-off h1 {
+	    font-size: 35px;
+    	line-height: 45px;
+    }
+    .box-new-product .price-pro,
+    .box-new-product .new-pro,
+    .box-new-product .hour-pro {
+    margin-right: 0px;
+    }
+    .stats-info h6 {
+    color: #fff;
+    letter-spacing: unset;
+    }
+    .slider > div span h1 {
+        font-size: 45px;
+    }
+    .slider > div span p {
+        font-size: 14px;
+    }
+    .navbar-nav > li {
+    border-right: unset;
+    }
+    .ed-specialist h1 {
+        font-size: 40px;
+    }
+    .menu-right-fix ul li a{
+        width: 40px;
+        height: 40px;
+    }
+
+    .menu-right-fix ul li a span{
+        display: none;
+
+    }
+    .menu-right-fix {
+        bottom: 10%;
+        right: 10px;
+    }
+    .form-dangky-tuvan h2{
+        font-size: 27px;
+    }
+    .fter-midle ul{
+        margin: 50px 0;
+    }
+}
+
+@media only screen and (max-width: 375px) {	
+	.footer-bottom p{
+	   font-size: 14px;
+    }
+    .slider > div span h1 {
+        font-size: 40px;
+    }
+    .slider > div span {
+        padding-top: 45%;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+
+}
+
+@media only screen and (max-height: 560px) {
+    
+
+}
